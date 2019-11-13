@@ -1,0 +1,11 @@
+E:\epam\1zad\Salat\bin\Debug\netcoreapp2.1\Salat.deps.json
+E:\epam\1zad\Salat\bin\Debug\netcoreapp2.1\Salat.runtimeconfig.json
+E:\epam\1zad\Salat\bin\Debug\netcoreapp2.1\Salat.runtimeconfig.dev.json
+E:\epam\1zad\Salat\bin\Debug\netcoreapp2.1\Salat.dll
+E:\epam\1zad\Salat\bin\Debug\netcoreapp2.1\Salat.pdb
+E:\epam\1zad\Salat\obj\Debug\netcoreapp2.1\Salat.csprojAssemblyReference.cache
+E:\epam\1zad\Salat\obj\Debug\netcoreapp2.1\Salat.csproj.CoreCompileInputs.cache
+E:\epam\1zad\Salat\obj\Debug\netcoreapp2.1\Salat.AssemblyInfoInputs.cache
+E:\epam\1zad\Salat\obj\Debug\netcoreapp2.1\Salat.AssemblyInfo.cs
+E:\epam\1zad\Salat\obj\Debug\netcoreapp2.1\Salat.dll
+E:\epam\1zad\Salat\obj\Debug\netcoreapp2.1\Salat.pdb
